@@ -1,3 +1,3 @@
 # Genshin Voice Over downloader
 
-Downloads the .mp3 audios from the provided URL (made for genshin)
+Downloads the .mp3 audios from genshin wiki (made for genshin)
